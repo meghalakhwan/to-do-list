@@ -62,7 +62,6 @@ button {
     font-size: 16px;
     cursor: pointer;
     border-radius: 40px;
-
 }
 
 ul li {
@@ -85,7 +84,6 @@ ul li::before{
     background-position: center;
     top: 12px;
     left: 8px;
-
 }
 
 ul li.checked{
